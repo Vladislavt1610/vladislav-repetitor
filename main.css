@@ -158,3 +158,12 @@ footer a:hover {
         width: 100%;
     }
 }
+@media (max-width:540px ) {
+    img {
+        max-width: 230px;
+        width: 50%;
+    }
+    .study-information-person {
+        width: 50%;
+    }
+}
